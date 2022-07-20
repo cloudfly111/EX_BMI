@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EX_BMI</string>
+    <string name="textName">姓名 : </string>
+    <string name="textage">年齡 : </string>
+    <string name="textheight">身高 : </string>
+    <string name="textweight">體重 : </string>
+</resources>
